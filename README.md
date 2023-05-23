@@ -1,7 +1,6 @@
 # Naive Bayes Email Classifier
 
-ABOUT THE DATA --
- Inside the 'data' folder, the emails are separated into 'train' 
+Inside the 'data' folder, the emails are separated into 'train' 
 and 'test' data. Each of these folders has nested 'spam' and 'ham'
 folders, each of which has a collection of emails as txt files.
 You will only use the emails in the 'train' folder to train your 
